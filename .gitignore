@@ -1,0 +1,64 @@
+# =========================
+# Python Core & Environments
+# =========================
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyd
+venv/
+.venv/
+env/
+.env/
+
+# =========================
+# Credentials & Secrets
+# =========================
+.env
+
+# =========================
+# Build & Distribution
+# =========================
+build/
+dist/
+*.spec
+*.exe
+
+# =========================
+# IDEs & Editors
+# =========================
+.vscode/
+.idea/
+
+# =========================
+# OS Generated Files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Logs & Databases
+# =========================
+*.log
+*.sqlite
+*.ldb
+
+# =========================
+# Project-Specific: Automation
+# =========================
+chrome_profile/
+
+# =========================
+# Project-Specific: Folders
+# =========================
+tools/
+demo/
+experiments/
+experimients/
+
+# =========================
+# Project-Specific: Experimental Scripts
+# =========================
+numpy_scanner.py
+vision_preprocessor.py
+test_*.py
+debug_*.py
