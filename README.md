@@ -1,5 +1,7 @@
 # 🦖 Initial Dino — Real-Time Chrome Dino Automation Engine
 
+![Initial Dino Demo](assets/demo_preview.png)
+
 > “At first, I thought this project would just be:
 > see obstacle → make dino jump.
 >
