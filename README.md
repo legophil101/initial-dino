@@ -37,7 +37,7 @@ Instead, the goal was to explore:
 ---
 # 🎥 Demo
 
-<video src="assets/demo.mp4" controls="controls" muted="muted" width="100%"></video>
+👉 [Watch Demo Video](https://github.com/legophil101/initial-dino/raw/main/assets/demo.mp4)
 
 The bot uses real-time screen capture, heuristic obstacle detection, and a hybrid FSM/reactive architecture to autonomously play Chrome Dino.
 
