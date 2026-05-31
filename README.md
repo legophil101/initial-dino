@@ -35,6 +35,12 @@ Instead, the goal was to explore:
 * engineering tradeoffs between “smart” systems vs stable systems
 
 ---
+# 🎥 Demo
+
+https://github.com/legophil101/initial-dino/blob/main/assets/demo.mp4
+
+The bot uses real-time screen capture, heuristic obstacle detection, and a hybrid FSM/reactive architecture to autonomously play Chrome Dino.
+---
 
 # 🧠 Core Concepts Explored
 
@@ -64,7 +70,7 @@ The final version uses a hybrid layered architecture:
 ## 2. Detection Layer
 
 * Pixel-based scanning using `Pillow`
-* Grayscale conversion
+* Simple grayscale intensity analysis for obstacle detection
 * Threshold-based obstacle detection
 * Lightweight heuristic classification system
 
@@ -377,6 +383,7 @@ Final tested setup:
 
 * 1080p monitor
 * Windows scaling at 120%
+* Chrome browser zoom: 110%
 * External monitor setup
 
 The bot may require adjustment of:
